@@ -2,3 +2,9 @@
 Unet可以从小数据集中训练，效果也会比较好
 是2015年《U-Net: Convolutional Networks for Biomedical Image Segmentation》提出的模型
 ![image](imag/unet.png?raw=true)
+Unet的结构像是一个字母“U”，由此得名
+初衷：
+  Unet提出的初衷是为了解决医学图像分割的问题；
+  一种U型的网络结构来获取上下文的信息和位置信息；
+  在2015年的ISBI cell tracking比赛中获得了多个第一，一开始这是为了解决细胞层面的分割的任务的
+  
