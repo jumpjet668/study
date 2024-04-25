@@ -1,7 +1,7 @@
 tailor可以按照图片的mask图把原图剪裁成具有其识别框大小的、像素级分割的、白色背景的一张张分割图。
 conda list:
 
-# Name                    Version                   Build  Channel
+Name                    Version                   Build  Channel
 ca-certificates           2024.3.11            haa95532_0    https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 libffi                    3.4.4                hd77b12b_0    https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 numpy                     1.24.4                   pypi_0    pypi
